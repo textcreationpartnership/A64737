@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>News from Hell: or, The devils court in an uproar His devilships falling sick, upon the news of the pope and poperies likely downfal. His last will and testament. His legacies to the pope and jesuits; and to other sinners in particular. Written by S.V.</title>
+            <author>S. V.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64737</idno>
+            <idno type="STC">Wing V10A</idno>
+            <idno type="STC">ESTC R219839</idno>
+            <idno type="EEBO-CITATION">99831286</idno>
+            <idno type="PROQUEST">99831286</idno>
+            <idno type="VID">35749</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64737)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35749)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2117:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>News from Hell: or, The devils court in an uproar His devilships falling sick, upon the news of the pope and poperies likely downfal. His last will and testament. His legacies to the pope and jesuits; and to other sinners in particular. Written by S.V.</title>
+                  <author>S. V.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.G.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC LXXIII. [1673]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Copy has faded text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35749:1"/>
+            <p>NEWS FROM HELL: OR, THE Devils Court IN AN UPROAR.</p>
+            <p>HIS DEVILSHIPS falling Sick, upon the News of the Pope and Poperies likely Downfal.</p>
+            <p>HIS Laſt WILL and TESTAMENT.</p>
+            <p>HIS LEGACIES to the POPE and JESUITS; AND To other SINNERS in particular.</p>
+            <p>WRITTEN by <hi>S. V.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. G.</hi> MDCLXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:35749:2"/>
+            <head>NEWS FROM HELL: OR, The Devils Court in an Uproar.</head>
+            <p>THe Devil upon his late Conference with, and the courte<g ref="char:EOLhyphen"/>ous Entertainment, and fair Promiſes he received from his H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lineſs the Pope, they having joyntly conſidered and taken care for the good of Souls; that is, how he may have whole ſhoales come in amain; which he is certain to have, if that they will but embrace his Holineſſes Doctrines, and put in practice his moſt Immaculate Commands; as in Murthering Hereticks, Depoſing of Princes, Blowing up of Parliaments, and ſuch like: his Devilſhip, I ſay, has been carouſing it amongſt his d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mnable Aſſociates, and kept open Houſe for all that came; which I verily believe few have done beſides a Jeſuit or two. But on a ſudden he heard an Eccho crying, Honeſty begins to get ground, Popery like to be wholly ſuppreſt, and Virtue like to be embraced: At which the Grand <hi>Sophy</hi> of the Satanical Synagogue belched out a groan, the rebound of which left all the <hi>Stygian</hi> Hell-hounds in a moſt clamorous howling; they preſently run all about their Fa<g ref="char:EOLhyphen"/>ther of miſchief, to know what qualm came over his ſtomach. H<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darting an eye upon them able to confound a thouſand Conjurers in their own Circles, (though with a wet finger they could fetch up a little Devil) mumbling out, Hell is undone. Why? yelped all the reſt. An Armado (quoth he) cannot ſave us. Our Legions in the World next above are overthrown; all thoſe Battalions that warred under the Colours of our red and fiery Dragon, are de<g ref="char:EOLhyphen"/>bauched: <note place="margin">Jeſuits.</note> ſuffer this brack in our Acherontick Territories, and hotter aſſaſſinations will every day pell-mell maul us. All about him cryed, They would never endure it.</p>
+            <p>Whileſt this indigeſted miſchief lay broiling on their ſtomachs, room was made for an Intelligencer. The Devil gnaſhed his <note place="margin">Jeſuit.</note> teeth, and asked, If the news were currant? It was anſwered, Yes.</p>
+            <p>Hey (cryes the Meſſenger) to unclaſp a Book of my <hi>memoran<g ref="char:EOLhyphen"/>dum;</hi>
+               <pb n="3" facs="tcp:35749:2"/>
+Let me be hung in Chains of Ice, (as you are in Fire, if I lye) and be bound to eat Flakes in the frozen <hi>Zone</hi> for a thouſand years, if the Globe of the Terreſtrial World be not new moulded; the Ball of it hath none of the old ſtuffing: Catholicks turn Here<g ref="char:EOLhyphen"/>ticks, Jeſuits burn their Books and Beads; <hi>Bellarmine</hi>'s Doctrines, which by your aſſiſtance have got ground, are now confuted; Tran<g ref="char:EOLhyphen"/>ſubſtantiation turned out of doors. Not an Inch of Knavery in a ſhort time will be had for Love nor Money. If you would give a Million of Gold, you ſhall not have a Courtier ere long in Debt; if you would beſtow a thouſand Pounds worth of Tobacco on a Souldier to ſwear a Garriſon-Oath, he would die ere he will do it. All Rich Men beſides begin to be Liberal, Poor Men not Contentious, Beggars not Drunk, Lawyers not Covetous, rich Heirs not riotous, Citizens not envious, Clowns moſt religious. No more, cryed the <hi>Tartarian Tramagrant.</hi> The other ſtop'd in his careere; and it was time: for this laſt Cannon ſhot through both his Broad-ſides; the fall of this Mill-ſtone had almoſt burſt his Heart; he ſighed nothing but flaſhes of Fire; ſpit nothing but flakes of Brimſtone; wept nothing but ſcoops full of Scalding water: for now he ſaw the dilaceration of his own Luciferan Kingdom, and the Exaltation of his Enemies. Out of his preſence he com<g ref="char:EOLhyphen"/>manded all; they break their Necks for haſte. He bawled for Mu<g ref="char:EOLhyphen"/>ſick; ten thouſand Soul<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were preſently ſet a yelling. He took no pleaſure in it<g ref="char:punc">▪</g> he felt himſelf damnably heart-burnt; pangs worſe than the tor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ures of everlaſting Death fell upon him, and no hope of his recovery; which made an unexpreſſible howling in Hell.</p>
+            <p>No amendment being in him, he called for Phyſicians; but not one would come near him, they knew his payment too well: for Apothecaries they were ſubtle enough, and cared not for his cu<g ref="char:EOLhyphen"/>ſtom. He then roared out for a cunning Scrivener to make his Will: one was at his elbow preſently, him he hugged in his arms, and cryed out, Welcome my Son, thou ſhalt for ever bind me unto thee. Sir <hi>Satrapas Sathan</hi> then goes on, and tells him, He is faln into a low and miſerable eſtate, his caſe is deſperate; and therefore being utterly given over, he ſends for him to make his laſt Will and Teſtament: and ſo Seignior <hi>Scrivano</hi> b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gins, <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> gallops as faſt with his Pen, as Monſieur <hi>Diabolo</hi> could with his Chaps. The Will runs in th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe words, or words to this effect following: <hi>Viz.</hi>
+            </p>
+            <q>
+               <pb n="4" facs="tcp:35749:3"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="satirical_will_and_testament">
+                        <p>
+                           <note place="margin">His Will.</note>
+                           <hi>BEhemah Dornſchweyn,</hi> Prince of all that lies betwixt the Eaſt and Weſt, the North and South; mighty both on the Sea and the Land, chief Vayvode of <g ref="char:V">Ʋ</g>ſury, Simony, Bribery, Perjury, Forgery, Ty<g ref="char:EOLhyphen"/>ranny, Blaſphemy, Calumny, <hi>&amp;c.</hi>(my Vaſſals and Deputies, with all their petty Officers under them) Patron of all that ſtudy the Black and Negromantick Arts; Father of all the roaring Boys, the Founder and <g ref="char:V">Ʋ</g>pholder of Paintings, Dawbings, Plaiſterings, Pargettings, Con<g ref="char:EOLhyphen"/>ſuring, Cementings, Winkle-filings, and b<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tchings up of old decayed and weather-beaten Faces: being confounded and tormented in every Limb, but having my Memory and Wits freſh and lively, do make this my laſt Will and Teſtament in manner and form following.</p>
+                        <p>
+                           <note place="margin">Legacies.</note>
+                           <hi>Imprimis,</hi> I will bequeath the World (whereof I am Prince) with all the Pleaſures, Inticements, and ſorcerous Vanities thereof, to be equally diſtributed amongſt my Sons and Daughters; and becauſe (of my own knowledge) I find very many of them to be damnably wick<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d: I lay upon all ſuch a Fathers heavy curſe, not caring though they hang in Hell, becauſe they have run a villanous, impious, pr<gap reason="illegible" extent="1 chunk">
+                              <desc>…</desc>
+                           </gap>ous and devilliſh Life and Race</p>
+                        <p>
+                           <note place="margin">To Ladies.</note>
+                           <hi>It<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>m,</hi> To all thoſe Ladies, Gentlewomen and Citizens Wives, (be<g ref="char:EOLhyphen"/>ing ſet down by their Names in my black Book) to whoſe houſes I have been welcome at midnight, my Wiſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> is, that they all ſh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll mourn.</p>
+                        <p>
+                           <note place="margin">To Uſu<g ref="char:EOLhyphen"/>rers.</note>
+                           <hi>Item,</hi> I further will and bequeath to my loving and d<gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>eſt Friends, the <g ref="char:V">Ʋ</g>ſurers of this City, all ſuch Moneys as are now, or hereafter ſhall be taken at above the rate of Ten in the Hundred.</p>
+                        <p>
+                           <note place="margin">To Gal<g ref="char:EOLhyphen"/>lants that follow him.</note>My will is, that every Gentleman that ſerves me, ſhall be kept in his Chain; yea, the worſt that hath followed me, let him go in a black Suit of durance.</p>
+                        <p>
+                           <note place="margin">To Har<g ref="char:EOLhyphen"/>lots.</note>
+                           <hi>Item,</hi> Whereas I have many baſe Daughters lurking about the Su<g ref="char:EOLhyphen"/>burbs, I give to them Carbuncles a piece, the biggeſt that can be got<g ref="char:EOLhyphen"/>ten. <note place="margin">To Bawds.</note>And to thoſe Matrons (that for my ſake have been ever dear to thoſe my ſaid Daughters) I give to each of them a bottle of the ſame <hi>Aqua Vitae</hi> whereof I my ſelf drink.</p>
+                        <p>
+                           <note place="margin">To Bank<g ref="char:EOLhyphen"/>rupts.</note>
+                           <hi>Item,</hi> I give my inviſible Cloaks to all Bankrupts, becauſe they have made them; but to one Poet onely (called <hi>Po<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>t Comedy</hi>) I give my beſt inviſible Cloak, becauſe it better fits his ſhoulders than my own; but chiefly, for that he will trim it up well, and line it with, Come not near me; or, Stand off: And becauſe he is a Slip of mine own graft<g ref="char:EOLhyphen"/>ing, I likewiſe bequeath to him my beſt Slippers, to walk and play with his Keepers noſes.</p>
+                        <p>
+                           <pb n="5" facs="tcp:35749:3"/>
+                           <note place="margin">To Offi<g ref="char:EOLhyphen"/>cers.</note>
+                           <hi>Item,</hi> I give to all Officers that love me, a brace of my own Angels to hang about their Necks as a remembrance of me.</p>
+                        <p>
+                           <note place="margin">To Bro<g ref="char:EOLhyphen"/>kers.</note>
+                           <hi>Item,</hi> My will is, that all the Brokers in <hi>Long-lane</hi> be ſent to me with all ſpeed poſſible, becauſe I have much of them laid to pawn to me, which will (I know) never be redeemed; and what I give to them ſhall be in Hugger mugger: and for the reſt of their Brethren about the City, let them be aſſured, they ſhall not be forgotten, becauſe I hear they pray for me hourly; I pity theſe poor deſpiſed Souls, becauſe if they ſhould miſs me, I know not what will bec<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>me of them</p>
+                        <p>
+                           <note place="margin">For re<g ref="char:EOLhyphen"/>paring the way to Ty<g ref="char:EOLhyphen"/>burn.</note>
+                           <hi>Item,</hi> I give towards the mending of the High w<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y b<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>een <hi>New<g ref="char:EOLhyphen"/>gate</hi> and <hi>Tyburn,</hi> all the Gr<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>vel that lies in the Ki<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, Reins and Bladders of Churles, <g ref="char:V">Ʋ</g>ſurers, B<gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap>s, Harl<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ts, and Wh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re-maſters a<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d rather then th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Gravel pits ſh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>uld grow ſcanty, I wiſh that they be ſupplied continually.</p>
+                        <p>
+                           <note place="margin">To J<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y<g ref="char:EOLhyphen"/>lors</note>
+                           <hi>Item,</hi> I give to all J<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ylors a<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> K<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>epers of Pri<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ns, t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ev<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ryone of them, the Soul of <gap reason="illegible" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Bear, (t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> b<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> R<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ven<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>us;) the B<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>dy of a W<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lf, (to be Cruel;) the Speech of a Dog, (t<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> b<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Churliſh;) the Tall<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ns of a Vulture, (to be Graſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ing;) and my C<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>u<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tenance to bear them out in their Office, that they may look like Devils to the poor P<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>iſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ners.</p>
+                        <p>
+                           <note place="margin">To Bully-cocks.</note>
+                           <hi>Item,</hi> My will is that if any Bully-cock happen to be ſtabbed, ſwag<g ref="char:EOLhyphen"/>g<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ing or ſ<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>aring in a Tavern (or to be killed in the quarrel of his Wh<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>re, let him be fetched hither in my own Name) becauſe here he ſhall be both looked to, and provided f<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r.</p>
+                        <p>
+                           <note place="margin">To the Pope and Jeſuits.</note>
+                           <hi>Item,</hi> I give unto my white S<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> (whom th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> World call
+<hi>Jeſuits</hi>) to each a thimble full of my Brains <g ref="char:punc">▪</g> f<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r truly I have been more beholden to them, than to my l<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ing Friends th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> Beakers; for by their making Adulte<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y and Fornication Venial Sins<g ref="char:punc">▪</g> they have h<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>lp me to thouſands of Souls, whi<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>h otherwiſe had n<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ver been waſted over into our Ache<g ref="char:EOLhyphen"/>rontick Territories.</p>
+                        <p>
+                           <note place="margin">To the Devils O<g ref="char:EOLhyphen"/>verſeers.</note>
+                           <hi>Laſtly,</hi> I make and ordain by this my l<gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>t Will and Te<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>tament, a Common Barret<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r to be my Executor; and two Knights, who are my ſworn Servants, and <gap reason="illegible" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>e of the P<gap reason="illegible" extent="3 letters">
+                              <desc>•••</desc>
+                           </gap> (their Names and Service being nailed upon Pillars in <hi>W<gap reason="illegible" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>tmin<gap reason="illegible" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ter</hi> Hall and Palac<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, I make them (albeit they are purblind) my Overſeers; and f<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r their pains therein, I will bequeath to each of them a great round Pearl to be worn in th<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ir Eyes, becauſe I may be ſtill in their ſight when I am g<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>n<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> from them.</p>
+                        <closer>
+                           <dateline>And to teſtifie that this is my laſt and only Will which ſhall ſtand, I ſubſcribe my Name unto it, thereby renouncing, retracting revocating, diſanulting, and quite cancelling all other Wills formerly by me made whatſoever: In witneſs whereof, all the States Infernal, Avernal, A<g ref="char:EOLhyphen"/>cherontick,
+<pb n="6" facs="tcp:35749:4"/>
+Stygian, Phlegetontick, and Periphlegetontick, have likewiſe ſubſcribed, in <date>the year of our Reigning in the World 5674.</date>
+                           </dateline>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Monſieur <hi>Noverint</hi> (being a man whoſe conditions were too well known) had nothing ſaid to him at this time, becauſe the Devil was very bad, and had no ſtomach to talk of old reckonings (for Univerſe was in his debt) but had his payment, and was glad he got away.</p>
+            <p>Now as it often happens to rich Curmudgeons, that after they have ſettled their Eſtate on their Death-beds, (as they verily fear) and that their Wives gape to be Widows, that from their Husbands Coffin they may leap into a Coach and be Ladies; their Sons and Heirs curſing as faſt (as the Mothers pray) until the great Capon<g ref="char:EOLhyphen"/>bell ring out; the Daughters weeping (when they know their Por<g ref="char:EOLhyphen"/>tions) only becauſe they are not Marriageable; or if Marriageable, becauſe ere they mourn in black, they have not Suitors to make them merry: and the Kindred as greedy (for their parts) to ſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Winding-ſheet laid out, that they may fetch their fat Legacies. And then (Oh terrible then!) the old Fox revives, falls to his ſleep, calls for his victuals, feels himſelf m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd, remembers his Bags, cryes out for his Keys, ſeals up his Money; no talk of a Will, no hope of a Widow, no ſharing of his Wealth. Even the ſelf-ſame Pill took this <hi>Diego Daemonum,</hi> and recovered upon it: for all his Children, Acquaintance, and Servants ſtanding about him, howl<g ref="char:EOLhyphen"/>ing and crying for him, Behold! this howling of theirs made him almoſt out of his wits, that madneſs quickned his ſpirits, his ſpirits made him rouſe up himſelf, and with rouſing he began to look into what danger he was faln; and by looking into it, to deviſe Plots again to raiſe it. Hereupon a Synod was called of all the ſubtleſt and plagueſt Praters in Hell, of which there are good ſtore. <hi>Ma<g ref="char:EOLhyphen"/>gog Mammon</hi> there diſcovers his Diſeaſe, the cauſe of it, and his peril: His fear is, that his Kingdom would now be ſorely ſhaken, and his ſorrows, becauſe all they ſhould be ſure to ſmart for it more then he himſelf; he therefore craves their Infernal counſel.</p>
+            <p>They all Conſer, they Couſult, and from that Conſultation (af<g ref="char:EOLhyphen"/>ter many Villanous Projects toſſed upon their Horns, like Dung upon Pitch-forks, and ſmelling worſe) this Advice was hatched, and had feathers ſluck on the back, the reſt were pluckt naked: and this it was; That <hi>Minotaure Poluphem</hi> (the Sire of all thoſe Whelps barking thus in the Kennels of Hell) ſhould forthwith put fire into his old bones, and fall to thraſhing of the Dam to
+<pb n="7" facs="tcp:35749:4"/>
+get more Hell-hounds, (brave young Devils) whom he may (like Tumblers) hoyſt from one Friends ſhoulder up to another, and ſo pop them into the World; and they going again to Bull with other black Goblings, may ingender what Monſters they pleaſe, to ſet all the World, and all the People in it out of Tune; and the worſe Muſick they make, the more ſport it is for him.</p>
+            <p>This Act was Filed upon Record, moſt Voyces carried it away: The Councel flowed currant; the Court is adjourned; and the great <hi>Beglherby</hi> of <hi>Limbo</hi> falls hotly to his buſineſs. Now you muſt underſtand, that the Devil being able to get Children faſter than any Man elſe, he had no ſooner touched his old <hi>Laplandian Gue<g ref="char:EOLhyphen"/>nevora,</hi> but ſhe as ſpeedily quickned; and no ſooner quickned, but was delivered, and lay In; and had at this Litter, or Burthen, two Twins.</p>
+            <p>The Father gave to each of them a Name; the one was called <hi>Hypocriſie,</hi> the other <hi>Ingratitude. <note place="margin">Both <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>its.</note>Hypocriſie</hi> was put to Nurſe to an <hi>Anabaptiſt</hi> of <hi>Amſterdam,</hi> but <hi>Ingratitude</hi> was brought up at home. In a ſhort time they were able to practiſe any Tricks that were taught them: So that being ripe for Maſters, <hi>Hypocriſie</hi> was pre<g ref="char:EOLhyphen"/>ſently bound to a Puritan Taylor by his Nurſe; and did nothing but make Cloaks for Religion to wear of a thouſand Colours. He ran away from the Taylor, and then dwelt with a Vizard-maker; and there he was the firſt that invented wearing of Two Faces un<g ref="char:EOLhyphen"/>der a Hood. After this he travelled into <hi>Italy,</hi> and there Learned (and ſince he hath Taught <hi>Jeſuits)</hi> to Embrace with one Arm, and Stab with another; to Smile in your Face, yet wiſh a Poniard in your Boſome; to Proteſt, and yet Lye; to ſwear Love, yet Hate mortally. From <hi>Italy</hi> he came into the <hi>Low Countries,</hi> where he would drink only with a full Glaſs, to over-reach you in your Cups of your Bargain. <note place="margin">Further de<g ref="char:EOLhyphen"/>ſcription of a Jeſuit.</note>Out of <hi>Germany</hi> he is again come over into <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> his Lodging is uncertain, for (like a Whore) he lies every<g ref="char:EOLhyphen"/>where: he ſometimes is at Court, and is there exceeding full of Com<g ref="char:EOLhyphen"/>plements; he goes ſometimes like a thread-bare Scholar, but with looks humble as a Lambs, and as innocent; but his Heart prouder than a Turks to a Chriſtian. He hath a bewitching Preſence, a ſweet Breath, a muſical Voyce, and a warm ſort Hand, but it is dangerous to keep Company with him, becauſe he can alter himſelf into ſundry ſhapes: In the City he is a Dog, and will ſawn upon you; in the Fields he is a Lyons Whelp, and will play with you; in the Sea he is a Mermaid, and will ſing to you: but that fawning
+<pb n="8" facs="tcp:35749:5"/>
+is but to reach at your Throat; that playing is to get you into his Paws; and that ſinging is nothing elſe, but to ſink and confound you for ever.</p>
+            <p>This Ficture of Perdition <hi>(Hypocriſie)</hi> was not drawn ſo ſmoothly, ſo cunningly, but his Brother <hi>(Ingratitude)</hi> though there went but a pair of ſhears betwixt them, was as ugly in ſhape, and as black in Soul; he was a Fiend in proportion, and a Fury in condition: It catcheth at any thing, but cannot ſee the Party from whom it receives.</p>
+            <p>This is that Torpedo, which if we touch, a numbneſs ſtrikes all our joynts and we have no f<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eling one of another. This is he which m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>keth one forget God and his Country, the King and his Kin<g ref="char:EOLhyphen"/>dred, only to pleaſe the Devil his Father. He that this day hath been comforted with thy Fire, fed with thy Bread, relieved with thy Purſe, and kept from being louſie with thy Linnen, to morrow will be ready to ſet the ſame Houſe on fire that hid him from cold; for thy Bread, to give thee Stones; for the Money thou lenteſt him, to ſell thee (like a <hi>Judas;)</hi> and for thy Linnen which wrap<g ref="char:EOLhyphen"/>ped him warm, glad to ſee thee in danger to go naked. Thus have we this <hi>Gorgoa</hi> in his liveſt colours; becauſe therefore that the odi<g ref="char:EOLhyphen"/>ouſneſs of this Beaſt ſhould ſtill be in our Eyes, God hath Hiero<g ref="char:EOLhyphen"/>glyphically figured it in many of his Creatures.</p>
+            <p>The Vip<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r is an Emblem of it, whoſe young ones gnaw out the B<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly in which they were bred. So is the Mule, whoſe paunch being full with ſucking<g ref="char:punc">▪</g> ſhe kicks her Dam. So is the Ivy, which kills that by wh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch it climbs. And ſo is Fire, which deſtroys its Nouriſher.</p>
+            <p>My purpoſe was, when the Grand <hi>Helea</hi> had gotten theſe two Furies with nine Lives, only to have drawn the Curtains of her Child-bed in which ſhe lay <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, and to have ſhewn no more but the well-<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed Fa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of her p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir of Monkies; but you ſee I have from her withered Teats brought them to their Cradles, from their Cradles carried them to Nurſe, and from thence followed them till they were able to do ſervice in the World: how they h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve ſp<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, you h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ar, and how they are like to proſper, you may judge.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
